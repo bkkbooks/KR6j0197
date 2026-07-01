@@ -1,0 +1,190 @@
+canonical_identifier: bkk:krp/KR6j0197/v1
+canonical_location: https://kanripo.org/bkk/KR6j0197/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大寶廣博樓閣善住祕密陀羅尼經
+  identifiers:
+    alt_id:
+    - T19n1005A
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n1005A.xml
+    old_id: T19n1005A
+  edition:
+    short: bkk
+editions:
+- short: 甲
+  label: 甲
+  source_xml_id: wit1
+- short: 宋
+  label: 宋
+  source_xml_id: wit2
+- short: 元
+  label: 元
+  source_xml_id: wit3
+- short: 明
+  label: 明
+  source_xml_id: wit4
+- short: ？
+  label: ？
+  source_xml_id: wit5
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 乙
+  label: 乙
+  source_xml_id: wit10
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0197_000.yaml, hash: 'sha256:17148212e95f6b2c07fd0d819c777646c6bd0b88f753fd680dcad48c3523aeb6'}
+  - {seq: 1, filename: KR6j0197_001.yaml, hash: 'sha256:d0af39dcdece1a8f5d7717ed3313f2ba546c2a0ebddca0e407d7af3602dc1419'}
+  - {seq: 2, filename: KR6j0197_002.yaml, hash: 'sha256:05f56435c8ce6c79b5b08cd4f88b1b86fe571e9dad9c565d56a883b3dc93c15f'}
+  - {seq: 3, filename: KR6j0197_003.yaml, hash: 'sha256:df31e5ab136dab1bbe3cdd608ce90c06f2b3def05bb41927395c90af6bb1be67'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0197_001.markers.yaml, hash: 'sha256:7780e2a2435dda0832f962ea63992f1bd824d0dcb13d36cab6f894b309358384'}
+  - {seq: 2, role: markers, filename: assets/KR6j0197_002.markers.yaml, hash: 'sha256:be591db54911010e04a10b80f5a8248d28b1586772db0780f3c18cbcec57adfa'}
+  - {seq: 3, role: markers, filename: assets/KR6j0197_003.markers.yaml, hash: 'sha256:00e8d50500a6507fabe6531fe843975cc0087246f2229e3ab27d906e37f4a5c7'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6j0197_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 大寶廣博樓閣善住祕密陀羅尼輪
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0197_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 8299
+  label: '大寶廣博樓閣善住祕密陀羅尼
+
+    經卷上'
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0197_T_001-mulu-1
+    span:
+    - body
+    - 46
+    - 46
+  label: 1 序品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0197_T_001-mulu-2
+    span:
+    - body
+    - 6667
+    - 6667
+  label: 2 根本陀羅尼品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0197_T_001-mulu-3
+    span:
+    - body
+    - 7233
+    - 7233
+  label: 3 心及隨心陀羅尼品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0197_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 5571
+  label: '大寶廣博樓閣善住祕密陀羅尼
+
+    經卷中'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0197_T_002-mulu-1
+    span:
+    - body
+    - 46
+    - 46
+  label: 4 成就心陀羅尼法品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0197_T_002-mulu-2
+    span:
+    - body
+    - 788
+    - 788
+  label: 5 成就隨心陀羅尼法品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0197_T_002-mulu-3
+    span:
+    - body
+    - 1121
+    - 1121
+  label: 6 諸儀軌陀羅尼品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0197_T_002-mulu-4
+    span:
+    - body
+    - 2321
+    - 2321
+  label: 7 建立曼荼羅品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0197_T_002-mulu-5
+    span:
+    - body
+    - 3418
+    - 3418
+  label: 8 畫像品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0197_T_002-mulu-6
+    span:
+    - body
+    - 4324
+    - 4324
+  label: 9 護摩品
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0197_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 5591
+  label: '大寶廣博樓閣善住祕密陀羅尼
+
+    經卷下'
+  type: juan
+  level: 1
+hash: sha256:fe375a392e4228fc558fa58866ab14a0a7ad08ecac764c257482b11b387c15af
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
