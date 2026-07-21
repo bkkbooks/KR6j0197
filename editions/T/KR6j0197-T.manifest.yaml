@@ -19,12 +19,12 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6j0197_000-T.yaml, hash: 'sha256:17148212e95f6b2c07fd0d819c777646c6bd0b88f753fd680dcad48c3523aeb6'}
+  - {seq: 0, filename: KR6j0197_000-T.yaml, hash: 'sha256:3feeb5745afbd5da1a933d2b8057b004fe62ea147fbe5101f8967216322112e5'}
   - {seq: 1, filename: KR6j0197_001-T.yaml, hash: 'sha256:46de6ea0b5f9b3a41a8456c0883fbc668f1bc8e75019b8e0736db48cec1c79f2'}
   - {seq: 2, filename: KR6j0197_002-T.yaml, hash: 'sha256:ab982c70aa1ed3722e37a6ef6762eeec4e97fe88e00a4ff4cd14eb44dc5092f9'}
   - {seq: 3, filename: KR6j0197_003-T.yaml, hash: 'sha256:242a30278ed9880e304ac27ec55dc5884228f5406ee3cd8549e0cbf6d08dee2e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0197_000-T.markers.yaml, hash: 'sha256:04af8aa15cf96d007c4c0161ec5ed09a252c3c40ac7a2ddebdcb9104419863a7'}
+  - {seq: 0, role: markers, filename: assets/KR6j0197_000-T.markers.yaml, hash: 'sha256:13b538db17c476dd42ffdfe225c4e0a9f00f0dc07c4f6928b222cab51f1713e1'}
   - {seq: 1, role: markers, filename: assets/KR6j0197_001-T.markers.yaml, hash: 'sha256:a375c18e7bd1bc2b5ec26d9414b8ae70d6271d962ecac28dadbd2e6f16c00a21'}
   - {seq: 2, role: markers, filename: assets/KR6j0197_002-T.markers.yaml, hash: 'sha256:41e7752068a25a9de5d0365b424aaa03ce478fe993c768c1474f49f81e535eab'}
   - {seq: 3, role: markers, filename: assets/KR6j0197_003-T.markers.yaml, hash: 'sha256:8d7d2906ace4307ec78cc7a28a661a6a83b1f5ce7386c654e4cf12c86bb4806f'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0197_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 大寶廣博樓閣善住祕密陀羅尼輪
@@ -165,4 +165,4 @@ table_of_contents:
     經卷下'
   type: juan
   level: 1
-hash: sha256:ee4bc6e6507a1433778a452f721182929ae54b2f4548b24b0d81da741c8f5ae4
+hash: sha256:0dd958f6641249427bbca2b76ed65e62990933a980312c8df7f17787c9531e8e

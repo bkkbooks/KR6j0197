@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6j0197/t/v1/juan/0
 seq: 0
-front:
+body:
   text: 大寶廣博樓閣善住祕密陀羅尼經大寶廣博樓閣善住祕密陀羅尼輪曩莫薩嚩怛他孽多南唵尾補攞孽陛麼抳鉢囉陛怛他多儞捺捨寧摩抳摩抳蘇鉢囉陛尾麼黎娑孽囉儼鼻㘑吽吽入嚩攞入嚩攞沒馱尾盧枳帝麌呬夜地瑟恥多孽陛娑縛訶經云此陀羅尼有大威德佛由此成道由此降魔能滅惡障能成六度若書紙素牌壁幢閣之上有人暫視讀誦受持及聞聲佩身並轉觸餘人是人五逆四重十惡等罪消滅無有刀毒水火劫賊邪魅瘧疫寒熱一切病苦皆悉遠離見獲福慶所求遂意臨命終時諸佛安慰得生淨土所有禽獸飛蛾蚊虻蟲等遇影蒙塵皆得解脫
   hash: sha256:11995f60b3bd82d317930cf6c09950640a0451543abf209aac2de7e5cf2abd8e
   markers:
   - {type: 序, offset: 0, content: 大寶廣博樓閣善住祕密陀羅尼輪, id: KR6j0197_T_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 大寶廣博樓閣善住祕密陀羅尼經
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/T/T19/T19n1005A.xml
     old_id: T19n1005A
-hash: sha256:17148212e95f6b2c07fd0d819c777646c6bd0b88f753fd680dcad48c3523aeb6
+hash: sha256:3feeb5745afbd5da1a933d2b8057b004fe62ea147fbe5101f8967216322112e5
